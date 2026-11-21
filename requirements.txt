@@ -1,0 +1,6 @@
+# Python dependencies for beat_cutter.py (macOS, Python 3.10+).
+# DaVinci Resolve's scripting module ships with the application and is not on PyPI.
+librosa>=0.10.1
+numpy>=1.23
+scipy>=1.10
+soundfile>=0.12
